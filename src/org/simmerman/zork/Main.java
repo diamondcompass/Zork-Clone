@@ -1,4 +1,4 @@
-package org.simmerman;
+package org.simmerman.zork;
 
 import java.util.Scanner;
 
